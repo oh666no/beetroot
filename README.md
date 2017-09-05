@@ -1,4 +1,4 @@
-# beetroot
+# Beetroot Front End IF Project
 
 This is common project for Beetroot Front End class
 
